@@ -1,0 +1,194 @@
+.section-head{
+    width: 1215px;
+    height: 8vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section-head h2{
+    margin-left: 35px;
+}
+
+.section-head-icon i{
+    margin-right: 30px;
+    border: 1px solid lightgray;
+    padding: 10px;
+    border-radius: 50%;
+    font-size: 22px;
+}
+
+.section-img{
+    display: flex;
+    margin-right: 50px;
+}
+
+.section-head .section-img img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+
+.section-profile {
+    margin-top: 8px;
+    margin-right: 15px;
+}
+
+.section-img i{
+    margin: auto;
+}
+
+.section-container hr{
+    border-top: 1px solid rgb(230, 227, 227);
+}
+
+.section-body{
+    width: 58%;
+    border-right: 2px solid rgb(230, 227, 227);
+    height: 92vh;
+    float: left;
+}
+
+.section-body .section-body-title{
+    padding: 10px 0px 0px 35px;
+}
+
+.section-body-title p{
+    font-size: 13px;
+    color: darkgrey;
+    margin-top: 5px;
+}
+
+.section-body-title h4{
+    font-size: 20px;
+}
+
+.section-body-title i{
+    padding: 0px 5px 0px 5px;
+}
+
+.section-body-cards{
+    display: flex;
+    justify-content: space-evenly;
+    height: 16vh;
+    align-items: center;
+}
+
+.section-card{
+    border: 1px solid rgb(230, 227, 227);
+    padding: 10px;
+    border-radius: 10px;
+    width: 200px;
+}
+
+.section-card p{
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+.section-card h5{
+    font-size: 20px;
+}
+
+.section-chart{
+    width: 70%;
+    display: flex;
+    margin: 10px 0px 5px 20px
+}
+
+.section-chart-card1{
+    border: 1px solid rgb(230, 227, 227);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.section-chart-card i{
+    margin-right: 5px;
+}
+
+.section-chart-card1 h4{
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.section-subchart{
+    display: flex;
+    justify-content: space-between;
+    font-size: 25px;
+}
+
+.section-chart-card1 img{
+    width: 290px;
+    height: 120px;
+}
+
+.section-chart-card .cards{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid rgb(230, 227, 227);
+    margin: 5px 0px 5px 0px;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.section-chart-card .cards h6{
+    font-size: 15px;
+}
+
+
+.section-chart-card2{
+    border: 1px solid rgb(230, 227, 227);
+    height: 260px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 5px;
+}
+
+.section-chart-card2 .section-time{
+    display: flex;
+    margin-left: 300px;
+}
+
+.section-time p{
+    margin-right: 30px;
+}
+
+.section-chart-card2 img{
+    width: 100%;
+    height: 200px;
+}
+
+.section-table{
+    width: 100%;
+    margin-top: 25px;
+    border-collapse: collapse;
+}
+
+.section-table th{
+    background-color: rgb(230, 227, 227);
+    padding: 12px;
+    color: rgb(123, 120, 120);
+    text-align: start;
+}
+
+.section-table td{
+    text-align: start;
+    border-bottom: 3px solid rgb(230, 227, 227);
+    font-size: 15px;
+    padding: 12px;
+}
+
+.section-table td img{
+    width: 110px;
+    margin-right: 10px;
+}
+
+.section-table i{
+    color: orange;
+}
+
+.section-table .fa-ellipsis-vertical{
+    color: #000;
+    padding-left: 25px;
+}

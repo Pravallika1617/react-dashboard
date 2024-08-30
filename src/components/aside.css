@@ -1,0 +1,95 @@
+.aside .aside1{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.aside1 .one{
+    color: teal;
+    padding-bottom: 3px;
+    border-bottom: 2px solid teal;
+
+}
+
+.aside2 img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.aside2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: -15px;
+}
+
+.aside2 .two p{
+    margin-top: 5px;
+    font-size: 15px;
+    color: rgb(90, 87, 87);
+}
+
+.aside2 .two span{
+    color: black;
+}
+
+.aside2 .two i{
+    color: orange;
+}
+
+.aside2 .ri-verified-badge-fill{
+    color: rgb(0, 106, 255);
+    font-size: 20px;
+}
+
+.aside3 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10px;
+}
+
+.aside3 img{
+    width: 300px;
+}
+
+.aside4{
+    display: flex;
+    justify-content: space-evenly;
+    /* align-items: center; */
+    margin-top: 5px;
+}
+
+.aside4 i{
+    margin-right: 5px;
+    font-size: 12px;
+}
+
+.aside4 p{
+    font-size: 13px;
+    color: rgb(90, 87, 87);
+    margin-top: 5px;
+}
+
+.aside5{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 13px;
+}
+
+.aside5 p{
+    font-size: 13px;
+    color: teal;
+}
+
+.aside6 img{
+    width: 330px;
+    margin-top: 10px;
+}
+
+.aside7 .aside2{
+    /* margin-bottom: 225px; */
+    padding: 15px;
+}
